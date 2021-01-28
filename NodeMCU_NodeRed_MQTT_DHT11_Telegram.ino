@@ -22,8 +22,8 @@ dht DHT;
 #define DHTPIN D7
 
 //Setup WIFI
-const char*   ssid        = "WLAN2"; //Nama SSID Wifi yang akan diakses!
-const char*   pass        = "sonaulyamahasin"; //Password Wifi
+const char*   ssid        = "xxx"; //Nama SSID Wifi yang akan diakses!
+const char*   pass        = "XXXX"; //Password Wifi
 
 //Setup MQTT broker
 const char*   mqtt_server = "broker.hivemq.com"; //Server MQTT/Broker
